@@ -1,1 +1,25 @@
+*
+{
+	background-color: black;
+}
+#logo
+{
+	font-family: sans-serif;
+	font-size: 50px;
+	color: orange;
+
+}
+#img_adj
+{
+	margin-top: 50px;
+	height: 400px;
+	width: 500px;
+
+}
+#vid_adj
+{
+	margin-top: 50px;
+	height: 400px;
+}
+
 
